@@ -1,0 +1,25 @@
+﻿Build started 10/27/2016 6:26:51 PM.
+     1>Project "c:\Users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\SFMLTileView\SFMLTileView.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\/SFML-2.4.0/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt drawMap.cpp theMap.cpp
+         theMap.cpp
+         drawMap.cpp
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(30): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(62): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(64): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(66): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(68): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(70): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(72): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\silentsky\documents\visual studio 2012\projects\sfmltileview\sfmltileview\drawmap.cpp(74): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\Debug\SFMLTileView.exe" /INCREMENTAL /NOLOGO /LIBPATH:"c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\/SFML-2.4.0/lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\Debug\SFMLTileView.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\Debug\SFMLTileView.lib" /MACHINE:X86 Debug\drawMap.obj
+         Debug\Source.obj
+         Debug\theMap.obj
+         SFMLTileView.vcxproj -> c:\users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\Debug\SFMLTileView.exe
+     1>Done Building Project "c:\Users\silentsky\documents\visual studio 2012\Projects\SFMLTileView\SFMLTileView\SFMLTileView.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.27
